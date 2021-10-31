@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AV2</string>
+    <string name="title">Exercício I</string>
+    <string name="button_label2">BOTÃO 2</string>
+    <string name="button_label_1">BOTÃO 1</string>
+    <string name="button_back">VOLTAR</string>
+</resources>
